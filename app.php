@@ -6,7 +6,8 @@
         "Apellido"=> (string)"Coronel Rodriguez",
         "Edad"=> (integer) 35,
         "Direccion"=> (string)"Carrera 17b",
-        "Grupo sanguineo"=> (string)"O+"
+        "Grupo sanguineo"=> (string)"O+",
+        "Ocupacion"=> (string)"estudiante" 
 
     ];
     echo <<<PLANTILLA
